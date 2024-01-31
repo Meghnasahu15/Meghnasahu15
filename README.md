@@ -42,11 +42,11 @@
 ### <samp>Github Stats
   
 <p align="center">
-  <a href="https://github.com/pratt0007"><span>
-      <img height="48%" src="https://github-readme-stats.vercel.app/api?username=pratt0007&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratt0007&theme=radical" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratt0007&show_icons=true&locale=en&theme=dracula" alt="pratyushnagpal18"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratt0007&theme=dracula" />
+  <a href="https://github.com/Meghnasahu15"><span>
+      <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Meghnasahu15&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meghnasahu15&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meghnasahu15&show_icons=true&locale=en&theme=dracula" alt="pratyushnagpal18"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meghnasahu15&theme=dracula" />
     </span></a>
   
 </p>
@@ -54,7 +54,7 @@
   
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pratt0007/count.svg" />
+  <img src="https://profile-counter.glitch.me/Meghnasahu15/count.svg" />
 </p>
   
  
