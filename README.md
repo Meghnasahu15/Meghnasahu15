@@ -4,17 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratt0007&label=Profile%20views&color=0e75b6&style=flat" alt="pratt0007" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics and Communication Engineering(2021-2025) from National Institute of Technology Raipur
-- 🔭 <samp>Schooled from PCM with Computer Applications stream from Daly College, CBSE Board - 96.2%
-- 💬 <samp>Ask me about CP/Html/CSS/JS
+- 🔭 <samp>Schooled from PCM with Computer Applications stream from Salem English School, ISC Board 
+- 💬 <samp>Ask me about CP/HTML/CSS/JS
 - 🌱 <samp> I’m currently learning Python,Django,Git/GitHub and Competitive Programming.
-- 📫 <samp>How to reach me h83pratyush@gmail.com
+- 📫 <samp>How to reach me me.ghnasahu0015@gmail.com
 
 <h3><b><samp>Connect with Me</samp></b></h3>
 
-[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-nagpal-643926232/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratt0007/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pratt0007)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pratt007) 
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghna-sahu-932baa228/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meghna_o15/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Meghnasahu15)
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
