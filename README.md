@@ -38,17 +38,7 @@
 
 <hr>  
 
-### <samp>Github Stats
-  
-<p align="center">
-  <a href="https://github.com/Meghnasahu15"><span>
-      <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Meghnasahu15&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Meghnasahu15&theme=radical" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meghnasahu15&show_icons=true&locale=en&theme=dracula" alt="pratyushnagpal18"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meghnasahu15&theme=dracula" />
-    </span></a>
-  
-</p>
+
   
   
 <p align="center"> 
