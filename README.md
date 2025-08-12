@@ -5,8 +5,8 @@
 
 - 👷 <samp> B.Tech in Electronics and Communication Engineering(2021-2025) from National Institute of Technology Raipur
 - 🔭 <samp>Schooled from PCM with Computer Applications stream from Salem English School, ISC Board 
-- 💬 <samp>Ask me about CP/HTML/CSS/JS
-- 🌱 <samp> I’m currently learning Python,Django,Git/GitHub and Competitive Programming.
+- 💬 <samp>Ask me about Android Development, Machine Learning, Artificial Intelligence, Competitive Programming, HTML, CSS, and JavaScript</samp> 
+- 🌱 <samp> Mastered Python, Django, Kotlin, Jetpack Compose, KMM, Git/GitHub, and more</samp>  
 - 📫 <samp>How to reach me me.ghnasahu0015@gmail.com
 
 <h3><b><samp>Connect with Me</samp></b></h3>
