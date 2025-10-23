@@ -36,7 +36,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 <hr>  
 <!--
-Here are some ideas to get 
+Here are some
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
