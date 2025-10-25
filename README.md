@@ -35,8 +35,6 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 <hr>  
-<!--
-Here
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
